@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Hawaiian Shirts",
+    "description": "Dress up in summer vibe",
+    "discount": "UPTO 50% OFF",
+    "image": "hawaiian_shirts.jpg"
+  },
+  {
+    "name": "Raven Hoodie Design",
+    "description": "New Designs Every Week",
+    "discount": "UPTO 40% OFF",
+    "note": "Limited Stock",
+    "image": "raven_hoodie_design.jpg"
+  },
+  {
+    "name": "Cargo Joggers",
+    "description": "Move with style & comfort",
+    "discount": "UPTO 50% OFF",
+    "image": "cargo_joggers.jpg"
+  },
+  {
+    "name": "Urban Shirts",
+    "description": "Live In Comfort",
+    "discount": "FLAT 60% OFF",
+    "image": "urban_shirts.jpg"
+  },
+  {
+    "name": "Modern Mobile Phone",
+    "description": "Street Style Icon",
+    "discount": "FLAT 60% OFF",
+    "image": "modern_mobile_phone.jpg"
+  }
+]
